@@ -1,11 +1,9 @@
 # 02 — Contexto y requisitos
 
-**Objetivo:** Dejar la flota **usable** para navegación web básica, correo, videollamadas y ofimática online, en un **centro de mayores**.
+## Qué tienes que hacer
+Redacta un **resumen breve** (6–10 líneas) con el **objetivo**, **restricciones** y **criterios de éxito**.
 
-**Restricciones:**
-- Precio de compra: **20 €** por unidad.
-- Gasto HW opcional **máx. 30 €** (si mejora usabilidad y mantiene competitividad).
-- **SO ligero** con soporte LTS o estable.
-- Accesibilidad y seguridad básicas obligatorias.
-
-**Entregables:** PDF único con evidencias (capturas con URL/fecha). Nombrado: `apellido1_apellido2_nombre_FHW_UT3_Retro_02.pdf`.
+## Guía (cómo se hace y qué poner)
+- **Objetivo:** PCs **usables** (web, correo, videollamada, ofimática online) para personas mayores **vía hardware mínimo**.
+- **Restricciones:** compra **20 €**; escenario **S0/S1/S2**; **no se instala software** en este reto.
+- **Criterios de éxito:** mejora perceptible con gasto bajo; compatibilidad garantizada; coste total competitivo.

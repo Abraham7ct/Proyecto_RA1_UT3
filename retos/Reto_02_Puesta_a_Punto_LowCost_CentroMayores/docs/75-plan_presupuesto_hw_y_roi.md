@@ -1,21 +1,18 @@
-# 75 — Presupuesto de hardware y ROI
+# 75 — Plan de presupuesto (HW) y ROI
 
-## Escenarios de gasto
-- **S0 (0 €)**: solo software. Coste total = 20 € + coste hora · horas.
-- **S1 (≤ 15 €)**: micro‑upgrade (pieza, fuente, coste, enlace).
-- **S2 (≤ 30 €)**: upgrade ligero (pieza, fuente, coste, enlace).
+> Tras decidir **S0/S1/S2** en `30-busqueda_mejoras_hw.md`, completa costes y ROI.
 
-## Tabla de costes y ROI
-Coste total = 20 € + gasto HW + (tarifa interna € / h) · horas
+- **Tarifa interna** (€/h): …  
+- **Horas por equipo**: …
 
-ROI simple = (PVP objetivo − Coste total) / Coste total
-
-| Escenario | Gasto HW (€) | Horas | Tarifa interna (€/h) | **Coste total (€)** | **PVP objetivo (€)** | **ROI** | ¿Competitivo? |
+| Escenario | Gasto HW (€) | Horas | Tarifa (€/h) | **Coste total (€)** | **PVP objetivo (€)** | **ROI** | ¿Competitivo? |
 |---|---:|---:|---:|---:|---:|---:|---|
 | S0 | 0 |  |  |  |  |  |  |
 | S1 | ≤15 |  |  |  |  |  |  |
 | S2 | ≤30 |  |  |  |  |  |  |
 
-## Elección final
-- Escenario elegido: …  
-- Motivos técnicos y de mercado: …
+**Fórmulas (guía):**
+- **Coste total** = 20 € + Gasto HW + (Tarifa × Horas)
+- **ROI** = (PVP − Coste total) / Coste total
+
+**Elección final y motivos:** …
