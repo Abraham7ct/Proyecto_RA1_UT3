@@ -18,11 +18,14 @@ URL tienda:
 [Procesador](https://www.pccomponentes.com/procesador-amd-ryzen-5-4600g-37-420ghz)
 
 Ficha técnica oficial (obligatorio):
+
 [AMD Ryzen5 4600G](https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4600g.html)
 URL oficial (fabricante/estándar):
+
 [AMD Ryzen5 4600G](https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4600g.html)
 
 Características principales (resumen):
+
 • **CPU 6 núcleos / 12 hilos**
 • **Frecuencia base 3,7 GHz / turbo hasta 4,2 GHz**
 • **Gráfica integrada Radeon**
@@ -30,9 +33,11 @@ Características principales (resumen):
 • **Soporta DDR4-3200**
 
 Justificación (oficina):
+
 **Este procesador ofrece un rendimiento sólido para tareas de ofimática, navegación con muchas pestañas, edición ligera de documentos y vídeos, videoconferencias, etc. Sus gráficos integrados evitan la necesidad de una GPU dedicada, reduciendo consumo, ruido y coste.**
 
 Compatibilidad (obligatorio, con enlaces):
+
 • Compatibilidad con placa base AM4
 → Evidencia: [Procesador](https://www.pccomponentes.com/procesador-amd-ryzen-5-4600g-37-420ghz)
 
