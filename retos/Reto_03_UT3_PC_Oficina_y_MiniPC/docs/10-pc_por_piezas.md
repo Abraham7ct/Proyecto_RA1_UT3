@@ -5,17 +5,11 @@
 ## PASO 1 — CPU con gráficos integrados
 PASO 1 — Procesador
 
-Componente elegido:
+Componente elegido:  **AMD Ryzen 5 4600G**
 
-AMD Ryzen 5 4600G
+Marca y modelo:  **AMD Ryzen 5 4600G**
 
-Marca y modelo:
-
-**AMD Ryzen 5 4600G**
-
-Precio (€):
-
-**157,99 €**
+Precio (€):  **157,99 €**
 
 URL tienda:
 
