@@ -96,11 +96,99 @@ Evidencia: [PlacaBase](https://www.pccomponentes.com/msi-a520m-a-pro)
 Captura: 
  ![MSI Apro](../assets/img/PBMSIaPro.png "tooltip")
 
+
 ## PASO 3 — Memoria RAM (mínimo 8 GB)
-Copia plantilla y rellena.
+
+Componente elegido:  **Kingston Fury Beast RGB 8 GB DDR4-3200**
+
+
+Marca y modelo:  **Kingston Fury Beast RGB 8 GB DDR4-3200**
+
+
+Precio (€): **40.72€**
+
+
+URL tienda: [RAM](https://www.carrefour.es/kingston-technology-fury-beast-rgb-special-edition-modulo-de-memoria-8-gb-1-x-8-gb-ddr4-3200-mhz/0740617330403/p?srsltid=AfmBOoqjp_i5u_cx_p9_U5Amu3SLKLPDrWqOPMpd1UigS2t5Qhnd8KvlqDw)
+
+
+Ficha técnica oficial :**[Ficha Tecnica DDR4](https://www.kingston.com/datasheets/KF432C16BB2A_8.pdf)**
+
+
+URL oficial (fabricante/estándar): **[Ficha Tecnica DDR4](https://www.kingston.com/datasheets/KF432C16BB2A_8.pdf)**
+
+
+Características principales:
+**• DDR4**
+
+**• 8 GB**
+
+**• 3200 MHz**
+
+
+Justificación (oficina):
+
+
+**8 GB de RAM permite realizar múltiples tareas básicas de oficina, múltiples pestañas de navegador y programas como Word y Excel. DDR4-3200 es soportado por la placa y el procesador para un rendimiento adecuado.**
+
+
+Compatibilidad :
+• DDR4 compatible con placa MSI A520M-A PRO
+• Soporta hasta 3200 MHz y compatible con Ryzen 4600G
+
+[Ficha Tecnica DDR4](https://www.kingston.com/datasheets/KF432C16BB2A_8.pdf)
+
+Captura:
+
+ ![RAMFury](../assets/img/RAMFuryddr4.png "tooltip")
+
 
 ## PASO 4 — Almacenamiento (SSD)
-Copia plantilla y rellena.
+
+Componente elegido:  **Crucial P3 500 GB**
+
+Marca y modelo:  **Crucial P3 500 GB NVMe M.2**
+
+Precio (€): ** 49.99 €**
+
+URL tienda:
+
+**[SSD](https://www.carrefour.es/disco-duro-micron-ct500p3ssd8-500-gb/0649528918758/p?srsltid=AfmBOoqNQcJEsAGrGwVRlULdXzWNxKHT-yaVxc1vtt1miZIdcK6GbKFTQ04)**
+
+
+Ficha técnica oficial :
+
+[FTMicron](https://www.crucial.es/ssd/p3/ct500p3ssd8) 
+
+
+URL oficial (fabricante/estándar):
+
+[FTMicron](https://www.crucial.es/ssd/p3/ct500p3ssd8) 
+
+
+Características principales:
+
+**• 500 GB**
+
+**• NVMe PCIe 3.0**
+
+**• M.2 2280**
+
+
+Justificación (oficina):
+
+**El SSD M.2 NVMe proporciona arranque rápido del sistema operativo y tiempos de carga reducidos en aplicaciones de uso común, importante para productividad diaria.**
+
+Compatibilidad:
+**• Slot M.2 PCIe 3.0 en placa MSI A520M-A PRO**
+
+**• Soporta NVMe PCIe 3.0**
+
+[FTMicron](https://www.crucial.es/ssd/p3/ct500p3ssd8) 
+
+Captura:
+
+ ![SSDMicron](../assets/img/SSDMicron.png "tooltip")
+
 
 ## PASO 5 — Fuente (PSU)
 Copia plantilla y rellena.
