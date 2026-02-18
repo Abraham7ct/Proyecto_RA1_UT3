@@ -6,3 +6,5 @@
 - **Alumno/a:** Abraham Aparicio Moreno
 - **Curso/Grupo:** 1º ASIR 
 - **Fecha:** 17/02/2026 
+
+![Portada](../assets/img/Portada3UT3.png  "tooltip")
