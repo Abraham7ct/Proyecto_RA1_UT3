@@ -94,7 +94,7 @@ Compatibilidad:
 Evidencia: [PlacaBase](https://www.pccomponentes.com/msi-a520m-a-pro)
 
 Captura: 
-![Ryzen5](../assets/img/PB MSI APro.png)
+ ![MSI Apro](../assets/img/PBMSIAPro.png "tooltip")
 
 ## PASO 3 — Memoria RAM (mínimo 8 GB)
 Copia plantilla y rellena.
