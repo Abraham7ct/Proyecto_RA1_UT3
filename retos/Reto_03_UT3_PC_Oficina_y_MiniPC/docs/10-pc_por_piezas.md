@@ -191,10 +191,99 @@ Captura:
 
 
 ## PASO 5 — Fuente (PSU)
-Copia plantilla y rellena.
+
+Componente elegido:  **Gigabyte P450B 450W 80+ Bronze**
+
+Marca y modelo:  **Gigabyte P450B 450W 80+ Bronze**
+
+Precio (€):  **50.81 €**
+
+URL tienda:
+
+[FuenteAl](https://www.pccomponentes.com/gigabyte-p450b-450w-80-plus-bronze?utm_source=google&utm_medium=free-listings&srsltid=AfmBOooBEmG4QYYe2rss4fl0OJ_mPlWg02l9cJdo2CkZee0exfPoAe0nWFI)
+
+Ficha técnica oficial (obligatorio):
+
+[FT FAlim.](https://www.gigabyte.com/es/Power-Supply/GP-P450B)
+
+URL oficial (fabricante/estándar):
+
+[FT FAlim.](https://www.gigabyte.com/es/Power-Supply/GP-P450B)
+
+Características principales (resumen):
+
+**• 450 W**
+
+**• 80+ Bronze**
+
+**• Conectores ATX 24 pin + CPU 8 pin**
+
+
+Justificación (oficina):
+
+**450 W es más que suficiente para un equipo sin tarjeta gráfica dedicada, con consumo controlado y eficiencia energética adecuada para oficina.**
+
+Compatibilidad (obligatorio, con enlaces):
+
+**• Conectores ATX estándar para placa y CPU**
+
+**• Potencia suficiente para CPU Ryzen 5 4600G + SSD + RAM**
+
+Enlace: [FT FAlim.](https://www.gigabyte.com/es/Power-Supply/GP-P450B)
+
+Captura:
+
+
+ ![FuenteAlim](../assets/img/FAlim.png "tooltip")
+
 
 ## PASO 6 — Chasis
-Copia plantilla y rellena.
+
+Componente elegido: **Nox Hummer MC USB 3.0 Zero Edition**
+
+Marca y modelo: **Nox Hummer MC USB 3.0 Zero Edition**
+
+Precio (€):  **44.99 €**
+
+URL tienda:
+
+[Chasis](https://www.pccomponentes.com/nox-hummer-mc-usb-30-zero-edition-blanca?srsltid=AfmBOopxCrm7vmUX5TJKPNiyiUCmGrotJLdfbBHHuAH2h8F4_XZG-KRWIRE)
+
+Ficha técnica oficial (obligatorio):
+
+[FTChasis](https://www.nox-xtreme.com/cajas/hummer-mc-zero-edition)
+
+URL oficial (fabricante/estándar):
+
+
+[FTChasis](https://www.nox-xtreme.com/cajas/hummer-mc-zero-edition)
+
+
+Características principales :
+
+**• Formato Micro-ATX**
+
+**• USB 3.0 frontal**
+
+**• Compatible con PSU ATX**
+
+
+Justificación (oficina):
+
+**Caja sencilla, compatible con la placa Micro-ATX y la fuente estándar. Buena ventilación para un sistema de baja potencia, ideal para entornos de trabajo.**
+
+Compatibilidad (obligatorio, con enlaces):
+• Soporta placas Micro-ATX
+
+• Compatible con fuente ATX
+
+[FTChasis](https://www.nox-xtreme.com/cajas/hummer-mc-zero-edition)
+
+
+Captura: 
+
+ ![Chasis](../assets/img/Caja.png "tooltip")
+
 
 ## PASO 7 — Presupuesto final
 - Suma total de la Opción A (por piezas).
