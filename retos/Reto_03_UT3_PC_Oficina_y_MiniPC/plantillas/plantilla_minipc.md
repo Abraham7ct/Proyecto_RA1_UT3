@@ -3,7 +3,7 @@
 **Producto elegido:**  
 - **Marca y modelo exacto:**  
 - **Precio (€):**  
-- **URL tienda:**  
+- **URL tienda:** (https://www.pccomponentes.com/blackview-mp100-mini-pc-amd-ryzen-5-7430u-16gb-512gb-wifi-6-windows-11-pro)
 
 **Ficha técnica oficial (obligatorio):**  
 - URL oficial del fabricante:
