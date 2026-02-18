@@ -148,7 +148,7 @@ Componente elegido:  **Crucial P3 500 GB**
 
 Marca y modelo:  **Crucial P3 500 GB NVMe M.2**
 
-Precio (€): ** 49.99 €**
+Precio (€): **49.99 €**
 
 URL tienda:
 
