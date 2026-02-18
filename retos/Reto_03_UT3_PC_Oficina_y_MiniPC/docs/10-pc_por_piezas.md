@@ -41,7 +41,7 @@ Compatibilidad (obligatorio, con enlaces):
 → Evidencia: [Procesador](https://www.pccomponentes.com/procesador-amd-ryzen-5-4600g-37-420ghz)
 
 Captura: 
- ![Ryzen5](retos/Reto_03_UT3_PC_Oficina_y_MiniPC/assets/img/Ryzen5.png)
+ ![Ryzen5](../assets/img/Ryzen5.png "tooltip")
 
  
 ## PASO 2 — Placa base compatible
