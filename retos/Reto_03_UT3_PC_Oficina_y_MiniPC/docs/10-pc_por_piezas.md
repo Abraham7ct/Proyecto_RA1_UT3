@@ -286,17 +286,20 @@ Captura:
 
 
 ## PASO 7 — Presupuesto final
-- Suma total de la Opción A (por piezas).
-- Justifica si priorizas precio, consumo o posibilidad de ampliación.
-- Incluye una mini tabla resumen.
+- Suma total de la Opción A (por piezas). --> 157.99 + 51.99 + 40.72 + 49.99 + 50.81 + 44.99 = **396.49€**
 
-Plantilla sugerida:
+Principalmente, se intenta buscar la mejor relacion calidad-precio posible, pero siempre dejando la posibilidad de poder ampliar/mejorar los componentes (RAM, slot M.2 NVMe para añadir o cambiar SSD...) 
+
+
+-  Mini tabla resumen.
+
+
 | Componente | Modelo | Precio (€) | URL tienda |
 |---|---|---:|---|
-| CPU |  |  |  |
-| Placa base |  |  |  |
-| RAM |  |  |  |
-| SSD |  |  |  |
-| PSU |  |  |  |
-| Chasis |  |  |  |
-| **TOTAL** |  | **__** |  |
+| CPU | AMD Ryzen 5 4600G | 157.99 | [Procesador](https://www.pccomponentes.com/procesador-amd-ryzen-5-4600g-37-420ghz)|
+| Placa base | MSI A520M-A PRO | 51.99 |[PlacaBase](https://www.pccomponentes.com/msi-a520m-a-pro)|
+| RAM | Kingston Fury Beast RGB 8 GB DDR4-3200 | 40.72 | [RAM](https://www.carrefour.es/kingston-technology-fury-beast-rgb-special-edition-modulo-de-memoria-8-gb-1-x-8-gb-ddr4-3200-mhz/0740617330403/p?srsltid=AfmBOoqjp_i5u_cx_p9_U5Amu3SLKLPDrWqOPMpd1UigS2t5Qhnd8KvlqDw)|
+| SSD | Crucial P3 500 GB | 49.99 | [SSD](https://www.carrefour.es/disco-duro-micron-ct500p3ssd8-500-gb/0649528918758/p?srsltid=AfmBOoqNQcJEsAGrGwVRlULdXzWNxKHT-yaVxc1vtt1miZIdcK6GbKFTQ04) |
+| PSU | Gigabyte P450B 450W 80+ Bronze | 50.81 | [FuenteAl](https://www.pccomponentes.com/gigabyte-p450b-450w-80-plus-bronze?utm_source=google&utm_medium=free-listings&srsltid=AfmBOooBEmG4QYYe2rss4fl0OJ_mPlWg02l9cJdo2CkZee0exfPoAe0nWFI) |
+| Chasis | Nox Hummer MC USB 3.0 Zero Edition | 44.99 | [Chasis](https://www.pccomponentes.com/nox-hummer-mc-usb-30-zero-edition-blanca?srsltid=AfmBOopxCrm7vmUX5TJKPNiyiUCmGrotJLdfbBHHuAH2h8F4_XZG-KRWIRE) |
+| **TOTAL** |  | **396.49€** |  |
