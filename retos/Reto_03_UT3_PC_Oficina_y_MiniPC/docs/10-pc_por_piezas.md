@@ -6,20 +6,25 @@
 PASO 1 — Procesador
 
 Componente elegido:
+
 AMD Ryzen 5 4600G
 
 Marca y modelo:
+
 **AMD Ryzen 5 4600G**
 
 Precio (€):
+
 **157,99 €**
 
 URL tienda:
+
 [Procesador](https://www.pccomponentes.com/procesador-amd-ryzen-5-4600g-37-420ghz)
 
 Ficha técnica oficial (obligatorio):
 
 [AMD Ryzen5 4600G](https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4600g.html)
+
 URL oficial (fabricante/estándar):
 
 [AMD Ryzen5 4600G](https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4600g.html)
@@ -27,10 +32,15 @@ URL oficial (fabricante/estándar):
 Características principales (resumen):
 
 • **CPU 6 núcleos / 12 hilos**
+
 • **Frecuencia base 3,7 GHz / turbo hasta 4,2 GHz**
+
 • **Gráfica integrada Radeon**
+
 • **TDP 65 W**
+
 • **Soporta DDR4-3200**
+
 
 Justificación (oficina):
 
