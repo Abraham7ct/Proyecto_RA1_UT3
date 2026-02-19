@@ -1,8 +1,5 @@
 # Opción B — Mini PC ya montado (PASO 8)
 
-Elige **1 Mini PC** ya montado y complétalo con enlaces y justificación.
-
-## PASO 8 — Mini PC alternativo
 ## PASO 8 — Mini PC (ya montado)
 
 **Producto elegido:**  
