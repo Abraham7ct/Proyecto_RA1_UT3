@@ -9,7 +9,7 @@ Rellena con ✅ + enlaces de evidencia.
 
 ## Opción A (por piezas)
 
-| Compatibilidad || OK |
+| Compatibilidad | OK |
 |---|:--:|
 | CPU ↔ Placa base (socket/chipset soportado) | ✅  |
 | RAM ↔ Placa base (DDR4/DDR5, velocidad soportada) | ✅  |
