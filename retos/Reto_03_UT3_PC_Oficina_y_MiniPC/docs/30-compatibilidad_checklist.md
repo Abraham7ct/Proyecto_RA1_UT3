@@ -21,7 +21,7 @@ Rellena con ✅ + enlaces de evidencia.
 ## Opción B (Mini PC)
 | Punto a verificar | OK |
 |---|:--:|
-| RAM ampliable (sí/no, máximo) | ✅ max 32 GB DDR4 |
+| RAM ampliable (sí/no, máximo) | ✅ max 32 GB DDR4 3200mHz|
 | SSD ampliable (sí/no, M.2/SATA) | ✅ Slot M.2 |
 | Conectividad (Wi‑Fi/Ethernet/USB/HDMI/DP) | ✅ |
 
