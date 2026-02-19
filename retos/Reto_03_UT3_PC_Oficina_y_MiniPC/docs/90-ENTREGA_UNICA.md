@@ -338,11 +338,11 @@ Principalmente, se intenta buscar la mejor relacion calidad-precio posible, pero
 - SSD/almacenamiento: **512GB SSD NVMe**
 - Conectividad (Wi‑Fi/Ethernet/USB/vídeo):
   
-• Wi-Fi 6
+**• Wi-Fi 6
 • Bluetooth 5.2
 • Ethernet Gigabit
 • USB-A / USB-C
-• Salida de vídeo: HDMI (compatible 4K)
+• Salida de vídeo: HDMI (compatible 4K)**
 -
 
 - Tamaño / consumo (si aparece en ficha): 127 x 127 x 45 mm, 492 g, consumo de 15 vatios
