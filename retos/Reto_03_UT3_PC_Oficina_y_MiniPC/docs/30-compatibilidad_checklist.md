@@ -9,18 +9,21 @@ Rellena con ✅ + enlaces de evidencia.
 
 ## Opción A (por piezas)
 
-| Compatibilidad | Evidencia (enlace) | OK |
-|---|---|:--:|
-| CPU ↔ Placa base (socket/chipset soportado) |  | ✅ / ❌ |
-| RAM ↔ Placa base (DDR4/DDR5, velocidad soportada) |  | ✅ / ❌ |
-| SSD ↔ Placa base (SATA o M.2; NVMe vs SATA) |  | ✅ / ❌ |
-| PSU ↔ Placa base (24-pin ATX, EPS 8-pin si aplica) |  | ✅ / ❌ |
-| Chasis ↔ Placa base (ATX/mATX/ITX) |  | ✅ / ❌ |
-| Chasis ↔ PSU (ATX/SFX/TFX) |  | ✅ / ❌ |
+| Compatibilidad || OK |
+|---|:--:|
+| CPU ↔ Placa base (socket/chipset soportado) | ✅  |
+| RAM ↔ Placa base (DDR4/DDR5, velocidad soportada) | ✅  |
+| SSD ↔ Placa base (SATA o M.2; NVMe vs SATA) | ✅ |
+| PSU ↔ Placa base (24-pin ATX, EPS 8-pin si aplica) | ✅ |
+| Chasis ↔ Placa base (ATX/mATX/ITX) |✅  |
+| Chasis ↔ PSU (ATX/SFX/TFX) | ✅  |
 
 ## Opción B (Mini PC)
-| Punto a verificar | Evidencia (enlace) | OK |
-|---|---|:--:|
-| RAM ampliable (sí/no, máximo) |  | ✅ / ❌ |
-| SSD ampliable (sí/no, M.2/SATA) |  | ✅ / ❌ |
-| Conectividad (Wi‑Fi/Ethernet/USB/HDMI/DP) |  | ✅ / ❌ |
+| Punto a verificar | OK |
+|---|:--:|
+| RAM ampliable (sí/no, máximo) | ✅ max 32 GB DDR4 |
+| SSD ampliable (sí/no, M.2/SATA) | ✅ Slot M.2 |
+| Conectividad (Wi‑Fi/Ethernet/USB/HDMI/DP) | ✅ |
+
+
+Enlace: (https://www.pccomponentes.com/blackview-mp100-mini-pc-amd-ryzen-5-7430u-16gb-512gb-wifi-6-windows-11-pro#caracteristicas)
